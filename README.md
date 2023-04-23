@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To begin this tutorial, we will need to set up a virtual machine in Microsoft Azure. You can choose any name for the VM that you prefer, as long as it is meaningful to you. The virtual machine should be configured with Windows 10 as its operating system and have a minimum of 2-4 vCPUs to ensure optimal performance.
+To begin this tutorial, we will need to set up a virtual machine in Microsoft Azure. You can choose any name for the VM that you prefer. The virtual machine should be configured with Windows 10 as its operating system and have a minimum of 2-4 vCPUs to ensure optimal performance.
 </p>
 <br />
 
