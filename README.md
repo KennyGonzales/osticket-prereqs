@@ -19,11 +19,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enable Internet Information Services (IIS)
-- Install Web Platforms Installer 
-- Install MySQL
-- Install C++ Redistributable
-- Configure Permissions & Install osTicket
+- Azure Virtual Machine
+- Internet Information Services (IIS) 
+- osTicket Installation Files
 
 <h2>Installation Steps</h2>
 
