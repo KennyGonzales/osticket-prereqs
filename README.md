@@ -22,6 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Azure Virtual Machine
 - Internet Information Services (IIS) 
 - osTicket Installation Files
+- HeidiSQL
 
 <h2>Installation Steps</h2>
 
