@@ -19,10 +19,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Azure Virtual Machine
-- Internet Information Services (IIS) 
-- osTicket Installation Files
-- HeidiSQL
+- Connect to Virtual Machine w/ Remote Desktop
+- Install / Enable IIS in Windows 
+- Install Web Platform Installer
+- Install osTicket v1.15.8
+- Download & Install HeidiSQL
+- Created database for osTicket
+- Change File Permissions
 
 <h2>Installation Steps</h2>
 
