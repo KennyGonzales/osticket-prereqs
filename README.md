@@ -44,7 +44,7 @@ To begin this tutorial, we will need to set up a virtual machine in Microsoft Az
 <img src="https://i.imgur.com/5luMEbS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We will now connect to the VM with *Remote Desktop Connection*. Use the VM's public IPv4 to connect.
+We will now connect to the VM with 'Remote Desktop Connection'. Use the VM's public IPv4 to connect.
 </p>
 <br />
 
