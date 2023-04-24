@@ -33,7 +33,7 @@ Before we start this tutorial, we will use these files to install osTicket & som
 Open here for the files: [osTicket prerequisite and installation files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 <br>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EgaN4Z7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To begin this tutorial, we will need to set up a virtual machine in Microsoft Azure. You can choose any name for the VM that you prefer. The virtual machine should be configured with Windows 10 as its operating system and have a minimum of 2-4 vCPUs to ensure optimal performance.
