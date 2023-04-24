@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Change File Permissions
 
 <h2>Installation Steps</h2>
-Before we start this tutorial, we will use these files to install osTicket & some of the dependencies. 
+>**Note**: Before we start this tutorial, we will use these files to install osTicket & some of the dependencies. 
 
 Open here for the files: [osTicket prerequisite and installation files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 <br>
