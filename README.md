@@ -82,7 +82,7 @@ Once we have accessed the next page, we can proceed to select "Turn Windows feat
   
 Write here   
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kCmXm10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
