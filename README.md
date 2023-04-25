@@ -65,3 +65,14 @@ After establishing a connection and accessing the virtual machine, the next step
 <p>
 </p>
 <br />
+
+
+<p>
+
+Write 72 here
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
