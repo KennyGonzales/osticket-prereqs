@@ -28,6 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Change File Permissions
 
 <h2>Installation Steps</h2>
+
 >**Note**: Before we start this tutorial, we will use these files to install osTicket & some of the dependencies. 
 
 Open here for the files: [osTicket prerequisite and installation files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
@@ -57,7 +58,7 @@ We will now connect to the VM with 'Remote Desktop Connection'. Use the VM's pub
 
 <p>
   
-After establishing a connection and accessing the virtual machine, the next step is to install the Web Platform Installer. To do so, we need to locate the Control Panel and select "Uninstall a program" from the "Programs" section.
+After establishing a connection and accessing the virtual machine, the next step is to install the Web Platform Installer. To do so, we need to locate the 'Control Panel' and select **Uninstall a program** from the 'Programs' section.
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
