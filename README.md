@@ -69,9 +69,9 @@ After establishing a connection and accessing the virtual machine, the next step
 
 <p>
 
-Write 72 here
+Once we have accessed the next page, we can proceed to select "Turn Windows features on or off" and then activate the "Internet Information Services" (IIS) from the list of available services.
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WUN7tQ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
