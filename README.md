@@ -70,7 +70,7 @@ After establishing a connection and accessing the virtual machine, the next step
 
 <p>
 
-Once we have accessed the next page, we can proceed to select "Turn Windows features on or off" and then activate the "Internet Information Services" (IIS) from the list of available services.
+Once we have accessed the next page, we can proceed to select "Turn Windows features on or off" and then activate the "Internet Information Services" (IIS) from the list of available services. Turn on CGI, which is under **Applications Development Features**
 
 <img src="https://i.imgur.com/WUN7tQ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -80,8 +80,7 @@ Once we have accessed the next page, we can proceed to select "Turn Windows feat
 
 
 <p>
-  
-Write here   
+    
   
 <img src="https://i.imgur.com/kCmXm10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
