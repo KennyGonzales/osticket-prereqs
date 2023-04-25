@@ -60,6 +60,7 @@ We will now connect to the VM with 'Remote Desktop Connection'. Use the VM's pub
   
 After establishing a connection and accessing the virtual machine, the next step is to install the Web Platform Installer. To do so, we need to locate the 'Control Panel' and select **Uninstall a program** from the 'Programs' section.
   
+<img src="https://i.imgur.com/B7qxI43.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <img src="https://i.imgur.com/pT7DTPU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
