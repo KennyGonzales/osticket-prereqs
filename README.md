@@ -117,7 +117,7 @@ We need to create a root password once ‘MySQL 5.5.62’ is downloaded.
 
 <p>
   
-Write here  
+To register a new PHP version, we first need to access the IIS (Internet Information Services) by typing "IIS" in the Start menu and running it as an administrator. Once we have access, we can then open "PHP Manager" by double-clicking on it and selecting "Register new PHP version".  
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -127,7 +127,7 @@ Write here
 
 <p>
   
-Write here 
+Write here
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
