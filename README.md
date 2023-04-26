@@ -82,7 +82,9 @@ Once we have accessed the next page, we can proceed to select "Turn Windows feat
 
 <p>
         
-Write here 
+After applying the changes, we will need to download/install ‘PHP Manager’ and ‘rewrite module’ from the installation files. After downloading those files, create a directory for ‘PHP’. 
+
+>**Note**: Download the files on Google Drive through the **Windows VM**.
   
 <img src="https://i.imgur.com/qoApMMC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
