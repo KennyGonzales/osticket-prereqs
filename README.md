@@ -91,10 +91,12 @@ After applying the changes, we will need to download/install ‘PHP Manager’ a
 <p>
 </p>
 <br />
+
+
 <p>
 
-Write here 
-  
+From the installation files, download ‘PHP 7.3.8’ and extract the contents into ‘c:/PHP’. After, download ‘VC_redist’ and ‘MySQL 5.5.62’.
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -103,8 +105,10 @@ Write here
 
 <p>
   
-Write here
-  
+We need to create a root password once ‘MySQL 5.5.62’ is downloaded. 
+
+>**Note**: I suggest creating a notepad/notes to write usernames and passwords for this activity.
+ 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
