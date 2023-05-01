@@ -97,7 +97,7 @@ After applying the changes, we will need to download/install ‘PHP Manager’ a
 
 From the installation files, download ‘PHP 7.3.8’ and extract the contents into ‘c:/PHP’. After, download ‘VC_redist’ and ‘MySQL 5.5.62’.
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J4jPymw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
