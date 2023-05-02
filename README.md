@@ -128,7 +128,7 @@ To register a new PHP version, we first need to access the IIS (Internet Informa
 
 <p>
   
-Write here 
+After downloading the necessary files, we need to install and extract the osTicket file. Next, we should extract the file and copy the "upload" folder to the directory c:\inetpub\wwwroot. Then, we should rename the "upload" folder to "osTicket" within the c:\inetpub\wwwroot directory.
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
