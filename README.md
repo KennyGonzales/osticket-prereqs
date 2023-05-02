@@ -105,7 +105,7 @@ From the installation files, download ‘PHP 7.3.8’ and extract the contents i
 
 <p>
   
-We need to create a root password once ‘MySQL 5.5.62’ is downloaded. Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration -> Create Password. 
+We need to create a root password once ‘MySQL 5.5.62’ is downloaded. **Typical Setup** -> **Launch Configuration Wizard** (after install) -> **Standard Configuration** -> **Create Password**. 
 
 >**Note**: I suggest creating a notepad/notes to write usernames and passwords for this activity.
  
@@ -138,7 +138,7 @@ After downloading the necessary files, we need to install and extract the osTick
 
 <p>
   
-Write here  
+Open IIS, run as administator, & restart server. Once finished, go to **sites** -> **default web site** -> **osTicket** ; click on "Browse * :80"
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
