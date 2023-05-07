@@ -213,7 +213,7 @@ Next, we need to grant new permissions to all users and provide them with **full
 
 <p>
   
-Once you have returned to the browser window with the osTicket installer and clicked on 'Continue', a form will appear that you need to fill out before proceeding further.
+Once you have returned to the browser window with the osTicket installer and clicked on **Continue**, a form will appear that you need to fill out before proceeding further.
   
 <img src="https://i.imgur.com/gR3A7OF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
