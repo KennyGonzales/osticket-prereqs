@@ -191,9 +191,11 @@ Rename `C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php` -> to `C:\inet
 
 <p>
   
-Write here  
+From here, we will change the **permissions** by right-clicking `ost-config` → select `properties` → select the `security` tab → select `advanced` → `disable inheritance` → `remove all` → `new permissions` → `everyone` → `all`. 
   
 <img src="https://i.imgur.com/DCP8hM0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/to12uJq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ts7ofCJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
