@@ -47,7 +47,7 @@ To begin this tutorial, we will need to set up a virtual machine in Microsoft Az
 
 <p>
   
-We will now connect to the VM with 'Remote Desktop Connection'. Use the VM's public IPv4 to connect.
+We will now connect to the VM with `Remote Desktop Connection`. Use the VM's public IPv4 to connect.
   
 <img src="https://i.imgur.com/5luMEbS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -58,7 +58,7 @@ We will now connect to the VM with 'Remote Desktop Connection'. Use the VM's pub
 
 <p>
   
-After establishing a connection and accessing the virtual machine, the next step is to install the Web Platform Installer. To do so, we need to locate the 'Control Panel' and select **Uninstall a program** from the 'Programs' section.
+After establishing a connection and accessing the virtual machine, the next step is to install the Web Platform Installer. To do so, we need to locate the `Control Panel` and select **Uninstall a program** from the 'Programs' section.
   
 <img src="https://i.imgur.com/B7qxI43.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <img src="https://i.imgur.com/DplZJ1N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -70,7 +70,7 @@ After establishing a connection and accessing the virtual machine, the next step
 
 <p>
 
-Once we have accessed the next page, we can proceed to select "Turn Windows features on or off" and then activate the "Internet Information Services" (IIS) from the list of available services. Turn on CGI, which is under **Applications Development Features**
+Once we have accessed the next page, we can proceed to select `Turn Windows features on or off` and then activate the `Internet Information Services` (IIS) from the list of available services. Turn on CGI, which is under **Applications Development Features**
 
 <img src="https://i.imgur.com/WUN7tQ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/kCmXm10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -82,7 +82,7 @@ Once we have accessed the next page, we can proceed to select "Turn Windows feat
 
 <p>
         
-After applying the changes, we will need to download/install ‘PHP Manager’ and ‘rewrite module’ from the installation files. After downloading those files, create a directory for ‘PHP’. 
+After applying the changes, we will need to download/install `PHP Manager` & `rewrite module` from the installation files. After downloading those files, create a directory for `PHP`. 
 
 >**Note**: Download the files on Google Drive through the **Windows VM**.
   
@@ -95,7 +95,7 @@ After applying the changes, we will need to download/install ‘PHP Manager’ a
 
 <p>
 
-From the installation files, download ‘PHP 7.3.8’ and extract the contents into ‘c:/PHP’. After, download ‘VC_redist’ and ‘MySQL 5.5.62’.
+From the installation files, download `PHP 7.3.8` and extract the contents into `c:/PHP`. After, download `VC_redist` and `MySQL 5.5.62`.
 
 <img src="https://i.imgur.com/J4jPymw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -117,7 +117,7 @@ We need to create a root password once ‘MySQL 5.5.62’ is downloaded. **Typic
 
 <p>
   
-To register a new PHP version, we first need to access the IIS (Internet Information Services) by typing "IIS" in the Start menu and running it as an administrator. Once we have access, we can then open "PHP Manager" by double-clicking on it and selecting "Register new PHP version".  
+To register a new PHP version, we first need to access the IIS (Internet Information Services) by typing "IIS" in the Start menu and running it as an administrator. Once we have access, we can then open `PHP Manager` by double-clicking on it and selecting `Register new PHP version`.  
   
 <img src="https://i.imgur.com/Onk3tUY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/hcstAyq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -128,7 +128,7 @@ To register a new PHP version, we first need to access the IIS (Internet Informa
 
 <p>
   
-After downloading the necessary files, we need to install and extract the osTicket file. Next, we should extract the file and copy the "upload" folder to the directory c:\inetpub\wwwroot. Then, we should rename the "upload" folder to "osTicket" within the c:\inetpub\wwwroot directory.
+After downloading the necessary files, we need to install and extract the osTicket file. Next, we should extract the file and copy the `"upload"` folder to the directory **c:\inetpub\wwwroot**. Then, we should rename the `"upload"` folder to `"osTicket"` within the **c:\inetpub\wwwroot directory**.
   
 <img src="https://i.imgur.com/IyTuwts.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ie0NaQA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
@@ -149,7 +149,7 @@ Open IIS & restart server. Once finished, go to **sites** -> **default web site*
 
 <p>
   
-Write here  
+After clicking **Browse * :80**, this selected browser will be presenting the osTicket installer page. Some recommendations will be disabled. 
   
 <img src="https://i.imgur.com/14jDUKb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -159,8 +159,9 @@ Write here
 
 <p>
   
-Write here  
-  
+In IIS, we will go to **Sites** -> **Default** -> **osTicket**. We will double click `PHP Manager`, and click `enable or disable an extension`. From there, we will enable `php_imap.dll`, `php.intl.dll`, & `php_opcache.dll`. 
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
