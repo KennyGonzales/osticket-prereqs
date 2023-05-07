@@ -105,7 +105,7 @@ From the installation files, download `PHP 7.3.8` and extract the contents into 
 
 <p>
   
-We need to create a root password once ‘MySQL 5.5.62’ is downloaded. **Typical Setup** -> **Launch Configuration Wizard** (after install) -> **Standard Configuration** -> **Create Password**. 
+We need to create a root password once ‘MySQL 5.5.62’ is downloaded. **Typical Setup** → **Launch Configuration Wizard** (after install) → **Standard Configuration** → **Create Password**. 
 
 >**Note**: I suggest creating a notepad/notes to write usernames and passwords for this activity.
  
@@ -139,7 +139,7 @@ After downloading the necessary files, we need to install and extract the osTick
 
 <p>
   
-Open IIS & restart server. Once finished, go to **sites** -> **default web site** -> **osTicket** ; click on **Browse * :80**
+Open IIS & restart server. Once finished, go to **sites** → **default web site** → **osTicket** ; click on **Browse * :80**
   
 <img src="https://i.imgur.com/9W0L8pC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -159,7 +159,7 @@ After clicking **Browse * :80**, this selected browser will be presenting the os
 
 <p>
   
-In IIS, we will go to **Sites** -> **Default** -> **osTicket**. We will double click `PHP Manager`, and click `enable or disable an extension`. From there, we will enable `php_imap.dll`, `php.intl.dll`, & `php_opcache.dll`. 
+In IIS, we will go to **Sites** → **Default** → **osTicket**. We will double click `PHP Manager`, and click `enable or disable an extension`. From there, we will enable `php_imap.dll`, `php.intl.dll`, & `php_opcache.dll`. 
 
 <img src="https://i.imgur.com/txv6rSx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 <img src="https://i.imgur.com/KiVyWyk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -180,7 +180,7 @@ After enabling the PHP extensions, refresh the osTicket site.
 
 <p>
   
-Rename `C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php` -> to `C:\inetpub\wwwroot\osTicket\include\ost-config.php.`
+Rename `C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php` → to `C:\inetpub\wwwroot\osTicket\include\ost-config.php.`
 
 <img src="https://i.imgur.com/61IfDc2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 <img src="https://i.imgur.com/JdQ8M94.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
