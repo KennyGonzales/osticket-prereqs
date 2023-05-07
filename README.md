@@ -141,7 +141,7 @@ After downloading the necessary files, we need to install and extract the osTick
   
 Open IIS & restart server. Once finished, go to **sites** -> **default web site** -> **osTicket** ; click on **Browse * :80**
   
-<img src="https://i.imgur.com/xaD1s5Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9W0L8pC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
