@@ -170,9 +170,9 @@ In IIS, we will go to **Sites** -> **Default** -> **osTicket**. We will double c
 
 <p>
   
-Write here  
+After enabling the PHP extensions, refresh the osTicket site.  
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hwTYWm3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -180,9 +180,10 @@ Write here
 
 <p>
   
-Write here  
-  
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Rename `C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php` -> to `C:\inetpub\wwwroot\osTicket\include\ost-config.php.`
+
+<img src="https://i.imgur.com/61IfDc2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/JdQ8M94.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
