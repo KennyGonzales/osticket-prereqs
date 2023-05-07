@@ -203,9 +203,9 @@ From here, we will change the **permissions** by right-clicking `ost-config` →
 
 <p>
   
-Write here  
+Next, we need to grant new permissions to all users and provide them with **full control**.  
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/U2QDUJI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
