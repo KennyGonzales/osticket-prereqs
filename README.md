@@ -213,9 +213,9 @@ Next, we need to grant new permissions to all users and provide them with **full
 
 <p>
   
-Write here  
+Once you have returned to the browser window with the osTicket installer and clicked on 'Continue', a form will appear that you need to fill out before proceeding further.
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gR3A7OF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -223,7 +223,7 @@ Write here
 
 <p>
   
-Write here  
+We need to download and install HeidiSQL from Google Drive using the default settings that are available in the installation wizard.
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
