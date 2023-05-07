@@ -161,8 +161,8 @@ After clicking **Browse * :80**, this selected browser will be presenting the os
   
 In IIS, we will go to **Sites** -> **Default** -> **osTicket**. We will double click `PHP Manager`, and click `enable or disable an extension`. From there, we will enable `php_imap.dll`, `php.intl.dll`, & `php_opcache.dll`. 
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/txv6rSx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/KiVyWyk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
