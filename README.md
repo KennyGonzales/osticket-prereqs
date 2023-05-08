@@ -268,7 +268,9 @@ To do a clean up, we will need to delete the **setup** folder located at `C:\ine
 
 <p>
   
-Write here  
+Steps to set permissions of **Read only**: 
+  
+Right-click on `ost-config.php` → select `Properties` → choose the `Security` tab → click on `Advanced` → choose the `Everyone` principle → select the `Read` option as the preferred permissions.   
   
 <img src="https://i.imgur.com/XgGqy7o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/eaaiUcC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
