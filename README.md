@@ -258,9 +258,9 @@ When you click on `Your osTicket URL`, it will guide you as an **end user**. The
 
 <p>
   
-Write here  
+To do a clean up, we will need to delete the **setup** folder located at `C:\inetpub\wwwroot\osTicket`. Then, we change the permissions of `C:\inetpub\wwwroot\osTicket\include\ost-config.php` to **Read only**. Now, we can log in to the osTicket Admin Panel by visiting **`http://localhost/osTicket/scp/login.php`**.
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ECGO3VI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
