@@ -223,7 +223,31 @@ Once you have returned to the browser window with the osTicket installer and cli
 
 <p>
   
-We need to download and install HeidiSQL from Google Drive using the default settings that are available in the installation wizard.
+>**Note**: Download and install HeidiSQL from Google Drive using the default settings that are available in the installation wizard.
+
+Create a new session with the username `root` and the password when you created in **MySQL 5.5.62**. You will then connect to new session, and create a database as **"osTicket"**.   
+  
+<img src="https://i.imgur.com/Nl1rQbI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dSLUQYg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lCwOrzU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<p>
+  
+Write here  
+  
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<p>
+  
+Write here  
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
