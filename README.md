@@ -278,3 +278,5 @@ Right-click on `ost-config.php` → select `Properties` → choose the `Security
 <p>
 </p>
 <br />
+
+<p align="right"> Next Up <a href="https://github.com/0xbythesecond/post-install-config"> OSTicket Post Install Configuration </a></p>
