@@ -237,6 +237,27 @@ Create a new session with the username `root` and the password when you created 
 
 <p>
   
+After creating the **"osTicket"** database, enter the details into the osTicket installer which will lead to osTicket being fully installed!
+
+<img src="https://i.imgur.com/F6XTs05.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7BA35Tq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<p>
+  
+When you click on `Your osTicket URL`, it will guide you as an **end user**. The portal will allow users to submit their tickets to request assistance from the help desk.
+  
+<img src="https://i.imgur.com/sqfoBXK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<p>
+  
 Write here  
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
