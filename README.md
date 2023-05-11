@@ -61,7 +61,7 @@ We will now connect to the VM with `Remote Desktop Connection`. Use the VM's pub
 After establishing a connection and accessing the virtual machine, the next step is to install the Web Platform Installer. To do so, we need to locate the `Control Panel` and select **Uninstall a program** from the 'Programs' section.
   
 <img src="https://i.imgur.com/B7qxI43.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/DplZJ1N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UtK9mFV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -130,7 +130,7 @@ To register a new PHP version, we first need to access the IIS (Internet Informa
   
 After downloading the necessary files, we need to install and extract the osTicket file. Next, we should extract the file and copy the `"upload"` folder to the directory **c:\inetpub\wwwroot**. Then, we should rename the `"upload"` folder to `"osTicket"` within the **c:\inetpub\wwwroot directory**.
   
-<img src="https://i.imgur.com/IyTuwts.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J3R1T8T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ie0NaQA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
