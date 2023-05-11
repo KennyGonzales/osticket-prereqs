@@ -141,7 +141,7 @@ After downloading the necessary files, we need to install and extract the osTick
   
 Open IIS & restart server. Once finished, go to **sites** → **default web site** → **osTicket** ; click on **Browse * :80**
   
-<img src="https://i.imgur.com/9W0L8pC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bL4ivHJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -151,7 +151,7 @@ Open IIS & restart server. Once finished, go to **sites** → **default web site
   
 After clicking **Browse * :80**, this selected browser will be presenting the osTicket installer page. Some recommendations will be disabled. 
   
-<img src="https://i.imgur.com/14jDUKb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xvWLk0Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
