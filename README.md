@@ -240,7 +240,7 @@ Create a new session with the username `root` and the password when you created 
 After creating the **"osTicket"** database, enter the details into the osTicket installer which will lead to osTicket being fully installed!
 
 <img src="https://i.imgur.com/F6XTs05.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/7BA35Tq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ez9rETc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -260,7 +260,7 @@ When you click on `Your osTicket URL`, it will guide you as an **end user**. The
   
 To do a clean up, we will need to delete the **setup** folder located at `C:\inetpub\wwwroot\osTicket`. Then, we change the permissions of `C:\inetpub\wwwroot\osTicket\include\ost-config.php` to **Read only**. Now, we can log in to the osTicket Admin Panel by visiting **`http://localhost/osTicket/scp/login.php`**.
   
-<img src="https://i.imgur.com/ECGO3VI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/onkE1GU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -272,7 +272,7 @@ Steps to set permissions of **Read only**:
   
 Right-click on `ost-config.php` → select `Properties` → choose the `Security` tab → click on `Advanced` → choose the `Everyone` principle → select the `Read` option as the preferred permissions.   
   
-<img src="https://i.imgur.com/XgGqy7o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XpO6vdl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/eaaiUcC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
