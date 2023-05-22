@@ -141,7 +141,7 @@ After downloading the necessary files, we need to install and extract the osTick
   
 Open IIS & restart server. Once finished, go to **sites** → **default web site** → **osTicket** ; click on **Browse * :80**
   
-<img src="https://i.imgur.com/viZs73O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/h9fZYvF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -151,7 +151,7 @@ Open IIS & restart server. Once finished, go to **sites** → **default web site
   
 After clicking **Browse * :80**, this selected browser will be presenting the osTicket installer page. Some recommendations will be disabled. 
   
-<img src="https://i.imgur.com/h9fZYvF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lUm2jFb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -161,7 +161,7 @@ After clicking **Browse * :80**, this selected browser will be presenting the os
   
 In IIS, we will go to **Sites** → **Default** → **osTicket**. We will double click `PHP Manager`, and click `enable or disable an extension`. From there, we will enable `php_imap.dll`, `php.intl.dll`, & `php_opcache.dll`. 
 
-<img src="https://i.imgur.com/EC9qN2t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/v4nZaF3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 <img src="https://i.imgur.com/0pqL92A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
