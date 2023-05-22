@@ -151,7 +151,7 @@ Open IIS & restart server. Once finished, go to **sites** → **default web site
   
 After clicking **Browse * :80**, this selected browser will be presenting the osTicket installer page. Some recommendations will be disabled. 
   
-<img src="https://i.imgur.com/UxiwBze.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/h9fZYvF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
