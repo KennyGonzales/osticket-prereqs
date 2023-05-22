@@ -86,7 +86,7 @@ After applying the changes, we will need to download/install `PHP Manager` & `re
 
 >**Note**: Download the files on Google Drive through the **Windows VM**.
   
-<img src="https://i.imgur.com/qoApMMC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VF6Ez5f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
