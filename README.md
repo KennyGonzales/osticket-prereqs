@@ -215,7 +215,7 @@ Next, we need to grant new permissions to all users and provide them with **full
   
 Once you have returned to the browser window with the osTicket installer and clicked on **Continue**, a form will appear that you need to fill out before proceeding further.
   
-<img src="https://i.imgur.com/hN0kbrT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TtJc506.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -227,9 +227,9 @@ Once you have returned to the browser window with the osTicket installer and cli
 
 Create a new session with the username `root` and the password when you created in **MySQL 5.5.62**. You will then connect to new session, and create a database as **"osTicket"**.   
   
-<img src="https://i.imgur.com/Nl1rQbI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/JSmaQcx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/lCwOrzU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VBeqUTA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ahmyfzh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jDjH3DH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
