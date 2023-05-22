@@ -97,7 +97,7 @@ After applying the changes, we will need to download/install `PHP Manager` & `re
 
 From the installation files, download `PHP 7.3.8` and extract the contents into `c:/PHP`. After, download `VC_redist` and `MySQL 5.5.62`.
 
-<img src="https://i.imgur.com/vQq1YdM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HPXpuPq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -109,7 +109,7 @@ We need to create a root password once ‘MySQL 5.5.62’ is downloaded. **Typic
 
 >**Note**: I suggest creating a notepad/notes to write usernames and passwords for this activity.
  
-<img src="https://i.imgur.com/FEyihjb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4w94kPF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -119,7 +119,7 @@ We need to create a root password once ‘MySQL 5.5.62’ is downloaded. **Typic
   
 To register a new PHP version, we first need to access the IIS (Internet Information Services) by typing "IIS" in the Start menu and running it as an administrator. Once we have access, we can then open `PHP Manager` by double-clicking on it and selecting `Register new PHP version`.  
   
-<img src="https://i.imgur.com/4MgmBkt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gE0KVoX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/NMpfPcW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
