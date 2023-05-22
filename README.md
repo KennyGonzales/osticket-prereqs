@@ -172,7 +172,7 @@ In IIS, we will go to **Sites** → **Default** → **osTicket**. We will double
   
 After enabling the PHP extensions, refresh the osTicket site.  
   
-<img src="https://i.imgur.com/SmOPVLA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cY8YV9Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -182,8 +182,8 @@ After enabling the PHP extensions, refresh the osTicket site.
   
 Rename `C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php` → to `C:\inetpub\wwwroot\osTicket\include\ost-config.php.`
 
-<img src="https://i.imgur.com/O9pZvy0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
-<img src="https://i.imgur.com/QYqg3K2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3xWrn8n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/3KBN2Od.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -193,9 +193,9 @@ Rename `C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php` → to `C:\ine
   
 From here, we will change the **permissions** by right-clicking `ost-config` → select `properties` → select the `security` tab → select `advanced` → `disable inheritance` → `remove all` → `new permissions` → `everyone` → `all`. 
   
-<img src="https://i.imgur.com/DCP8hM0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/to12uJq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Ts7ofCJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UqGCKi0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rZtAslp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/r4rWQUW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -205,7 +205,7 @@ From here, we will change the **permissions** by right-clicking `ost-config` →
   
 Next, we need to grant new permissions to all users and provide them with **full control**.  
   
-<img src="https://i.imgur.com/U2QDUJI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ez8SliL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
