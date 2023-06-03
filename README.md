@@ -60,8 +60,8 @@ We will now connect to the VM with `Remote Desktop Connection`. Use the VM's pub
   
 After establishing a connection and accessing the virtual machine, the next step is to install the Web Platform Installer. To do so, we need to locate the `Control Panel` and select **Uninstall a program** from the 'Programs' section.
   
-<img src="https://i.imgur.com/Y2i87yp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/nFUqFrs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a0HBeSB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/LgSXLgp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -108,7 +108,7 @@ We need to create a root password once ‘MySQL 5.5.62’ is downloaded. **Typic
 
 >**Note**: I suggest creating a notepad/notes to write usernames and passwords for this activity.
  
-<img src="https://i.imgur.com/4w94kPF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JKTxLB6.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -118,8 +118,8 @@ We need to create a root password once ‘MySQL 5.5.62’ is downloaded. **Typic
   
 To register a new PHP version, we first need to access the IIS (Internet Information Services) by typing "IIS" in the Start menu and running it as an administrator. Once we have access, we can then open `PHP Manager` by double-clicking on it and selecting `Register new PHP version`.  
   
-<img src="https://i.imgur.com/gE0KVoX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/NMpfPcW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vYH68rW.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yrRjtSR.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -129,7 +129,7 @@ To register a new PHP version, we first need to access the IIS (Internet Informa
   
 After downloading the necessary files, we need to install and extract the osTicket file. Next, we should extract the file and copy the `"upload"` folder to the directory **c:\inetpub\wwwroot**. Then, we should rename the `"upload"` folder to `"osTicket"` within the **c:\inetpub\wwwroot directory**.
   
-<img src="https://i.imgur.com/dNN5OmA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jpDaY1P.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/EqZqKfn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
@@ -140,7 +140,7 @@ After downloading the necessary files, we need to install and extract the osTick
   
 Open IIS & restart server. Once finished, go to **sites** → **default web site** → **osTicket** ; click on **Browse * :80**
   
-<img src="https://i.imgur.com/h9fZYvF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/atWUDVR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -150,7 +150,7 @@ Open IIS & restart server. Once finished, go to **sites** → **default web site
   
 After clicking **Browse * :80**, this selected browser will be presenting the osTicket installer page. Some recommendations will be disabled. 
   
-<img src="https://i.imgur.com/lUm2jFb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/z3Rjbuq.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -161,7 +161,7 @@ After clicking **Browse * :80**, this selected browser will be presenting the os
 In IIS, we will go to **Sites** → **Default** → **osTicket**. We will double click `PHP Manager`, and click `enable or disable an extension`. From there, we will enable `php_imap.dll`, `php.intl.dll`, & `php_opcache.dll`. 
 
 <img src="https://i.imgur.com/v4nZaF3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
-<img src="https://i.imgur.com/0pqL92A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xEtQ4SG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
