@@ -267,7 +267,7 @@ To do a clean up, we will need to delete the **setup** folder located at `C:\ine
 
 <p>
   
-Steps to set permissions of **Read only**: 
+### Steps to set permissions of **_Read only_**: 
   
 Right-click on `ost-config.php` → select `Properties` → choose the `Security` tab → click on `Advanced` → choose the `Everyone` principle → select the `Read` option as the preferred permissions.   
   
