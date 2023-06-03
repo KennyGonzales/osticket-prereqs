@@ -39,7 +39,7 @@ To begin this tutorial, we will need to set up a virtual machine in Microsoft Az
 <p>
   
   
-<img src="https://i.imgur.com/XM90G6U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AIexboE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
