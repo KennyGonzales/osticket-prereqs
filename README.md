@@ -264,7 +264,7 @@ To do a clean up, we will need to delete the **setup** folder located at `C:\ine
 <p>
 </p>
 <br />
-
+<hr>
 <p>
   
 ### Steps to set permissions of **_Read only_**: 
