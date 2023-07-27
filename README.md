@@ -72,7 +72,7 @@ After establishing a connection and accessing the virtual machine, the next step
 
 Once we have accessed the next page, we can proceed to select `Turn Windows features on or off` and then activate the `Internet Information Services` (IIS) from the list of available services. Turn on CGI, which is under **Applications Development Features**
 
-<img src="https://i.imgur.com/XVdq3iW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uoTHLt2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -85,7 +85,7 @@ After applying the changes, we will need to download/install `PHP Manager` & `re
 
 >**Note**: Download the files on Google Drive through the **Windows VM**.
   
-<img src="https://i.imgur.com/VF6Ez5f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/78HKcQK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -96,7 +96,7 @@ After applying the changes, we will need to download/install `PHP Manager` & `re
 
 From the installation files, download `PHP 7.3.8` and extract the contents into `c:/PHP`. After, download `VC_redist` and `MySQL 5.5.62`.
 
-<img src="https://i.imgur.com/HPXpuPq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pF6pXlB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -204,7 +204,7 @@ From here, we will change the **permissions** by right-clicking `ost-config` →
   
 Next, we need to grant new permissions to all users and provide them with **full control**.  
   
-<img src="https://i.imgur.com/ez8SliL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5Lrs43P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
